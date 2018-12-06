@@ -31,3 +31,7 @@ Below are the installation steps
 
 ## [Haberman's Breast Cancer Survival](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/Haberman_Survey_Analysis)
 The main objecttive of the project is to predict the **Survival Status** of a patient based on some attributes.
+
+## [Uber Supply Demand Gap Analysis](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/Uber_Supply_Demand_Analysis)
+The main objecttive of the project is to analysis the Uber's **Supply-Demand-Gaps** of cab
+* One thing to note the **seaborn** version is **0.9.0**
