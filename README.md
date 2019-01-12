@@ -36,6 +36,11 @@ The main objecttive of the project is to predict the **Survival Status** of a pa
 The main objecttive of the project is to analysis the Uber's **Supply-Demand-Gaps** of cab
 * One thing to note the **seaborn** version is **0.9.0**
 
+## [Application of TSNE on Amazon's Fine Food Review](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/TSNE_on_amazon_food_review)
+The main objective of the project is to apply KNN algorithm on amazon fine food review
+* Convert the free text of food reviews into numerical vectors
+* Apply TSNE algorithm to vidualise the data
+
 ## [Application of KNN on Amazon's Fine Food Review](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/KNN_on_amazon_food_review)
 The main objective of the project is to apply KNN algorithm on amazon fine food review
 * Convert the free text of food reviews into numerical vectors
