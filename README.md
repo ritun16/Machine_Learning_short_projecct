@@ -55,3 +55,7 @@ The main objective of the project is to apply Naive Bayes algorithm on amazon fi
 The main objective of the project is to apply Logistic Regression algorithm on amazon fine food review
 * Convert the free text of food reviews into numerical vectors
 * Apply Logistic Regression model to get the prediction accuracy
+
+## [Application of SGD Implementation on BOSTON Data](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/SGD_Implementation)
+The main objective of the project is to derive manual SGD and compare the result with sklearn's SGDRegressor
+
