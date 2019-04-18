@@ -63,3 +63,15 @@ The main objective of the project is to derive manual SGD and compare the result
 * Convert the free text of food reviews into numerical vectors
 * Apply Support Vector Machine model to get the prediction accuracy
 
+## [Application of Decision Tree Implementation on Amazon's Fine Food Review](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/Decision_Tree_on_Amazon_Fine_food_Review)
+* Convert the free text of food reviews into numerical vectors
+* Apply Decision Tree model to get the prediction accuracy
+
+## [Application of Ensemble Model Implementation on Amazon's Fine Food Review](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/Ensemble_Model_on_Amazon_Fine_Food_Review)
+* Convert the free text of food reviews into numerical vectors
+* Apply Random Forest and XGBoost model to get the prediction accuracy
+
+## [Application of Unsupervised Model Implementation on Amazon's Fine Food Review](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/Unsupervised_Model_on_Amazon_Fine_food_Review)
+* Convert the free text of food reviews into numerical vectors
+* Apply KMeans, Aglomerative and DBSCAN model to get the prediction accuracy
+
