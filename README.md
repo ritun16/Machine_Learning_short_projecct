@@ -59,3 +59,6 @@ The main objective of the project is to apply Logistic Regression algorithm on a
 ## [Application of SGD Implementation on BOSTON Data](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/SGD_Implementation)
 The main objective of the project is to derive manual SGD and compare the result with sklearn's SGDRegressor
 
+## [Application of SVM Implementation on Amazon's Fine Food Review](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/SVM_on_Amazon_Fine_Food_Review)
+
+
