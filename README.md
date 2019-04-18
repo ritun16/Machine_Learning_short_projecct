@@ -60,5 +60,6 @@ The main objective of the project is to apply Logistic Regression algorithm on a
 The main objective of the project is to derive manual SGD and compare the result with sklearn's SGDRegressor
 
 ## [Application of SVM Implementation on Amazon's Fine Food Review](https://github.com/ritun16/Machine_Learning_short_projecct/tree/master/SVM_on_Amazon_Fine_Food_Review)
-
+* Convert the free text of food reviews into numerical vectors
+* Apply Support Vector Machine model to get the prediction accuracy
 
